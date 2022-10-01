@@ -1,11 +1,11 @@
 # Aviate
 
-##Create a .env file to store environment variables
-##Format of .env:
-SECRET_KEY=''
-DEBUG=
-JWT_ALGORITHM=''
-JWT_EXPIRY_IN_SEC=
+## Create a .env file to store environment variables
+## Format of .env:
+### SECRET_KEY=''
+### DEBUG=
+### JWT_ALGORITHM=''
+### JWT_EXPIRY_IN_SEC=
 
 ## To run the server, follow the below steps
 1. Better to create virtual environment and then activate it.
